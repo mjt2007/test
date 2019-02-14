@@ -13,7 +13,7 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://youtube.com"
+            href="https://wikipedia.com"
             target="_blank"
             rel="noopener noreferrer"
           >
